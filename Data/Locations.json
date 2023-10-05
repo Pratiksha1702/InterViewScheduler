@@ -1,0 +1,12 @@
+{
+  "Locations": [
+    {
+      "Id": 100001,
+      "Location": "Mumbai"
+    },
+    {
+      "Id": 100002,
+      "Location": "Hyderabad"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "FinalStatus": [
+    {
+      "Id": "Scheduled",
+      "Status": "Scheduled"
+    },
+    {
+      "Id": "Re-Scheduled",
+      "Status": "Re-Scheduled"
+    },
+    {
+      "Id": "Drop",
+      "Status": "Drop"
+    },
+    {
+      "Id": "Rejected",
+      "Status": "Rejected"
+    },
+    {
+      "Id": "Selected",
+      "Status": "Selected"
+    },
+    {
+      "Id": "Hold",
+      "Status": "Hold"
+    },
+    {
+      "Id": "Ringing",
+      "Status": "Ringing"
+    },
+    {
+      "Id": "Not Responding",
+      "Status": "Not Responding"
+    }
+  ]
+}

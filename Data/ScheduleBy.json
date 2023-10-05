@@ -1,0 +1,25 @@
+{
+  "Schedulers": [
+    {
+      "Name": "Rutuja Patil",
+      "Email": "vinod.patil@wonderbiz.in",
+      "ColorCode": "1"
+    },
+    {
+      "Name": "Shreya D",
+      "Email": "vinod.patil@wonderbiz.in",
+      "ColorCode": "2"
+    },
+    {
+      "Name": "Anzar Ahmed",
+      "Email": "anzar.ansari@wonderbiz.in",
+      "ColorCode": "11"
+    },
+    {
+      "Name": "Shaheem Shaikh",
+      "Email": "shaheem.shaikh@wonderbiz.in",
+      "ColorCode": "4"
+    }
+
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Interviewers": [
+    {
+      "Id": 1,
+      "Name": "Sahil  ",
+      "interviewerEmail": "i.sahil14@gmail.com",
+      "ZoomUrl": "https://us04web.zoom.us/j/74590648427?pwd=cWhHTHY2MlZpQXlxYXRhUHJTS0VuZz09",
+      "MeettingId": "745 9064 8427",
+      "PassCode": "067980",
+      "InterViewerColorCode": "2"
+    },
+    {
+      "Id": 2,
+      "Name": "vinod",
+      "interviewerEmail": "fsfsdf@sdf.com",
+      "ZoomUrl": "asdadsa",
+      "MeettingId": "sdfasda",
+      "PassCode": "sfdsfsdf",
+      "InterViewerColorCode": "4"
+    },
+    {
+      "Id": 3,
+      "Name": "sania ss",
+      "interviewerEmail": "sdjfh@gmail.com",
+      "ZoomUrl": "adjfkdhsjgfdaj",
+      "MeettingId": "3456765432",
+      "PassCode": "23456",
+      "InterViewerColorCode": "7"
+    },
+    {
+      "Id": 4,
+      "Name": "Pratik",
+      "interviewerEmail": "pratik@gmail.com",
+      "ZoomUrl": "adsfdsadfdsa",
+      "MeettingId": "12345678765432",
+      "PassCode": "adgjl",
+      "InterViewerColorCode": "8"
+    },
+    {
+      "Id": 5,
+      "Name": "hnbv",
+      "interviewerEmail": "jhgf@gma.com",
+      "ZoomUrl": "jhgfdfgh",
+      "MeettingId": "hgfdfg",
+      "PassCode": "hgdf",
+      "InterViewerColorCode": "3"
+    },
+    {
+      "Id": 6,
+      "Name": "qwert",
+      "interviewerEmail": "sdf@gm.in",
+      "ZoomUrl": "sdfghjklhjfhgdsd",
+      "MeettingId": "2345678987654",
+      "PassCode": "34567",
+      "InterViewerColorCode": "5"
+    }
+  ]
+}
